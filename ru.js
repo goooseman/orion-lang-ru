@@ -1,4 +1,4 @@
-i18n.map('[language-code]', {
+i18n.map('ru', {
   global: {
     save: 'Срхранить',
     create: 'Создать',
