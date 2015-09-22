@@ -1,6 +1,6 @@
 i18n.map('ru', {
   global: {
-    save: 'Срхранить',
+    save: 'Сохранить',
     create: 'Создать',
     logout: 'Выход',
     back: 'Назад',
